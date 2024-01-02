@@ -1,3 +1,3 @@
 # fastcampus-jenkins
 ## CI/CD
-## too mush time
+## too mush time fuck TT
