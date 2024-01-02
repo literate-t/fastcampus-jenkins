@@ -1,3 +1,3 @@
 # fastcampus-jenkins
 ## CI/CD
-### not working
+### not working yet
