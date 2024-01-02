@@ -1,4 +1,3 @@
 # fastcampus-jenkins
 ## CI/CD
-### not working yet private key permission denied problem occur
-### I don't know fuck that shit
+## New line was the problem..I typed enter in last line and the problem solved
