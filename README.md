@@ -1,3 +1,3 @@
 # fastcampus-jenkins
 ## CI/CD
-## shit TT
+## too mush time wasted
